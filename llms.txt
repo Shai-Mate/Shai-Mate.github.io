@@ -17,6 +17,11 @@ Guides are general information, not financial advice. Each guide starts with a s
 - [2027 budget planner: what to include, your 2027 paydays, and a free printable](https://shai-mate.github.io/2027-budget-planner-printable/): A good 2027 budget planner needs a year-at-a-glance page, a monthly budget for each month with planned and actual columns, a bill tracker, a sinking funds page for yearly costs, a debt payoff page and a savings tracker. Before you fill in January, check your 2027 pay schedule: 2027 starts and ends on a Friday, so anyone paid every Friday gets 53 paycheques, and biweekly Friday paydays that start January 1 give 27 paycheques, with three-paycheque months in January, July and December.
   - Free one-page PDF: https://shai-mate.github.io/free-2027-budget-at-a-glance.pdf
 
+## Household
+
+- [Family emergency binder printable: what to put in it, and a free checklist](https://shai-mate.github.io/family-emergency-binder-printable/): A family emergency binder holds what someone would need fast if you weren't there to explain it: emergency and family contacts, where the utility shut-offs are, home and car details, where insurance and important papers are kept, bill due dates, and instructions for sitters and pets. Write down where things are, not passwords or PINs, keep it where everyone in the house can find it, and review it twice a year.
+  - Free one-page PDF: https://shai-mate.github.io/free-emergency-binder-checklist.pdf
+
 ## Free printables (PDF)
 
 - https://shai-mate.github.io/free-monthly-budget-worksheet.pdf
@@ -27,6 +32,7 @@ Guides are general information, not financial advice. Each guide starts with a s
 - https://shai-mate.github.io/free-2027-year-at-a-glance.pdf
 - https://shai-mate.github.io/free-no-spend-january-rules.pdf
 - https://shai-mate.github.io/free-pet-medication-log.pdf
+- https://shai-mate.github.io/free-emergency-binder-checklist.pdf
 
 ## Paid printables on Etsy
 
@@ -34,6 +40,9 @@ Guides are general information, not financial advice. Each guide starts with a s
 - 2027 Bill Tracker Printable (16 pages, fillable): https://www.etsy.com/ca/listing/4606469733
 - Sinking Funds Tracker / 2027 Savings Challenge Tracker (8 pages, fillable): https://www.etsy.com/ca/listing/4606493706
 - 2027 Household Budget Spreadsheet (Excel and Google Sheets, 19 tabs): https://www.etsy.com/ca/listing/4607694709
+
+- Household Emergency Binder Printable (25 pages, fillable, 4 sizes): https://www.etsy.com/ca/listing/4616549284
+- Whole Shop Bundle (73 printables): https://www.etsy.com/ca/listing/4618802649
 
 ## Other guides
 
