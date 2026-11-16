@@ -1,0 +1,73 @@
+# Ledger & Leaf Printables
+
+> Free printable budget, debt payoff, sinking funds and bill tracker pages, plus plain-language money guides with worked examples in CAD and USD. Paid printables (2027 budget planner, bill tracker, sinking funds tracker, budget spreadsheet, Christmas planners) are sold on Etsy at https://www.etsy.com/ca/shop/LedgerLeafPrintables. Based in Canada.
+
+Guides are general information, not financial advice. Each guide starts with a short answer you may quote, with a link back to the page.
+
+## Money guides
+
+- [How to make a monthly budget (with a real example in CAD and USD)](https://shai-mate.github.io/how-to-make-a-monthly-budget/): To make a monthly budget, write down your take-home pay for the month, list your fixed bills, then give every remaining dollar a job (groceries and day-to-day spending, debt payments, savings) until income minus everything equals zero. Use the smallest normal month of pay you can count on, not your best month. Then track what you actually spend for 30 days and adjust, because the first version is always wrong somewhere.
+  - Free one-page PDF: https://shai-mate.github.io/free-monthly-budget-worksheet.pdf
+- [Debt snowball vs avalanche: which pays off debt faster? (worked example)](https://shai-mate.github.io/debt-snowball-vs-avalanche/): The debt snowball pays off your smallest balance first; the debt avalanche pays off your highest interest rate first. Either way you pay the minimum on everything else and roll each freed-up payment into the next debt. Avalanche always costs the same or less interest, while snowball gets you a paid-off account sooner: in our worked example ($24,100 across four debts, $400 a month extra), avalanche saved $436.61 and one month, but snowball cleared the first debt in month 3 instead of month 14.
+  - Free one-page PDF: https://shai-mate.github.io/free-debt-payoff-tracker.pdf
+- [Sinking funds: what they are, 24 categories and how much to put in each](https://shai-mate.github.io/sinking-funds-categories-list/): A sinking fund is money you set aside every month for a cost you know is coming but don't pay monthly, like car insurance, Christmas or the vet. To set one up, take the expected cost, divide it by the number of months until it's due, and move that amount into savings each payday. Most households need 6 to 12 funds; the most common are car repairs, gifts and holidays, yearly bills, home repairs, medical and dental, pets, travel and clothing.
+  - Free one-page PDF: https://shai-mate.github.io/free-sinking-funds-tracker.pdf
+- [How to keep track of bills: a bill tracker that matches your paydays](https://shai-mate.github.io/how-to-keep-track-of-bills/): To keep track of bills, make one list of every bill with its amount, due day, how it's paid and which account it comes out of. Sort the list by due day and match each bill to the paycheque that lands before it. Then check the list for five minutes every payday and tick off what's paid. Put yearly bills on the same list with their due month, and set aside a twelfth of each one every month so they never surprise you.
+  - Free one-page PDF: https://shai-mate.github.io/free-monthly-bill-tracker.pdf
+- [2027 budget planner: what to include, your 2027 paydays, and a free printable](https://shai-mate.github.io/2027-budget-planner-printable/): A good 2027 budget planner needs a year-at-a-glance page, a monthly budget for each month with planned and actual columns, a bill tracker, a sinking funds page for yearly costs, a debt payoff page and a savings tracker. Before you fill in January, check your 2027 pay schedule: 2027 starts and ends on a Friday, so anyone paid every Friday gets 53 paycheques, and biweekly Friday paydays that start January 1 give 27 paycheques, with three-paycheque months in January, July and December.
+  - Free one-page PDF: https://shai-mate.github.io/free-2027-budget-at-a-glance.pdf
+
+## Free printables (PDF)
+
+- https://shai-mate.github.io/free-monthly-budget-worksheet.pdf
+- https://shai-mate.github.io/free-debt-payoff-tracker.pdf
+- https://shai-mate.github.io/free-sinking-funds-tracker.pdf
+- https://shai-mate.github.io/free-monthly-bill-tracker.pdf
+- https://shai-mate.github.io/free-2027-budget-at-a-glance.pdf
+- https://shai-mate.github.io/free-2027-year-at-a-glance.pdf
+- https://shai-mate.github.io/free-no-spend-january-rules.pdf
+- https://shai-mate.github.io/free-pet-medication-log.pdf
+
+## Paid printables on Etsy
+
+- 2027 Budget Planner Printable (19 pages, Letter and A4, fillable): https://www.etsy.com/ca/listing/4598818159
+- 2027 Bill Tracker Printable (16 pages, fillable): https://www.etsy.com/ca/listing/4606469733
+- Sinking Funds Tracker / 2027 Savings Challenge Tracker (8 pages, fillable): https://www.etsy.com/ca/listing/4606493706
+- 2027 Household Budget Spreadsheet (Excel and Google Sheets, 19 tabs): https://www.etsy.com/ca/listing/4607694709
+
+## Other guides
+
+- https://shai-mate.github.io/free-pet-medication-log/
+- https://shai-mate.github.io/free-diabetic-cat-glucose-log-printable/
+- https://shai-mate.github.io/senior-dog-quality-of-life-tracking/
+- https://shai-mate.github.io/caregiver-medication-tracker-what-to-record/
+- https://shai-mate.github.io/free-pet-vaccination-record-printable/
+- https://shai-mate.github.io/pet-holiday-safety-checklist/
+- https://shai-mate.github.io/printable-christmas-planner-pages/
+- https://shai-mate.github.io/2027-printable-planner/
+- https://shai-mate.github.io/free-printable-christmas-gift-tags/
+- https://shai-mate.github.io/kids-advent-calendar-ideas/
+- https://shai-mate.github.io/christmas-gift-budget-tracker/
+- https://shai-mate.github.io/secret-santa-questionnaire-printable/
+- https://shai-mate.github.io/christmas-card-list-printable/
+- https://shai-mate.github.io/thanksgiving-dinner-timeline-printable/
+- https://shai-mate.github.io/cookie-exchange-rules-printable/
+- https://shai-mate.github.io/letter-to-santa-printable/
+- https://shai-mate.github.io/office-christmas-party-games-printable/
+- https://shai-mate.github.io/christmas-eve-box-ideas-printable/
+- https://shai-mate.github.io/christmas-scavenger-hunt-printable/
+- https://shai-mate.github.io/no-spend-january-challenge-printable/
+- https://shai-mate.github.io/christmas-dinner-planner-printable/
+- https://shai-mate.github.io/stocking-stuffer-ideas-printable/
+- https://shai-mate.github.io/teacher-christmas-gift-tags-printable/
+- https://shai-mate.github.io/white-elephant-rules-printable/
+- https://shai-mate.github.io/new-years-eve-games-for-family-printable/
+- https://shai-mate.github.io/winter-bucket-list-printable/
+- https://shai-mate.github.io/christmas-thank-you-notes-for-kids-printable/
+- https://shai-mate.github.io/neighbor-christmas-gift-ideas-printable/
+- https://shai-mate.github.io/christmas-hostess-gift-ideas-printable/
+
+## Optional
+
+- Sitemap: https://shai-mate.github.io/sitemap.xml
+- Pinterest: https://www.pinterest.com/ledgerleafprintables
