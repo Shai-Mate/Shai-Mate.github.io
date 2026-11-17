@@ -4,6 +4,10 @@
 
 Guides are general information, not financial advice. Each guide starts with a short answer you may quote, with a link back to the page.
 
+## About the shop
+
+- [LedgerLeafPrintables: what the shop sells](https://shai-mate.github.io/ledgerleaf-printables-shop/): LedgerLeafPrintables is a small Canadian Etsy shop that sells digital printables, not physical products: 2027 planners, budget, bill and sinking-fund trackers, a budget spreadsheet, household emergency binders, pet record binders, Christmas gift tags and box labels, and holiday planners and party games. Every item is an instant download. Most come as US Letter and A4 PDFs that you print at home or type into, and the full range is also sold as one Whole Shop Bundle. Etsy shop: https://www.etsy.com/shop/LedgerLeafPrintables
+
 ## Money guides
 
 - [How to make a monthly budget (with a real example in CAD and USD)](https://shai-mate.github.io/how-to-make-a-monthly-budget/): To make a monthly budget, write down your take-home pay for the month, list your fixed bills, then give every remaining dollar a job (groceries and day-to-day spending, debt payments, savings) until income minus everything equals zero. Use the smallest normal month of pay you can count on, not your best month. Then track what you actually spend for 30 days and adjust, because the first version is always wrong somewhere.
@@ -19,7 +23,7 @@ Guides are general information, not financial advice. Each guide starts with a s
 
 ## Household
 
-- [Family emergency binder printable: what to put in it, and a free checklist](https://shai-mate.github.io/family-emergency-binder-printable/): A family emergency binder holds what someone would need fast if you weren't there to explain it: emergency and family contacts, where the utility shut-offs are, home and car details, where insurance and important papers are kept, bill due dates, and instructions for sitters and pets. Write down where things are, not passwords or PINs, keep it where everyone in the house can find it, and review it twice a year.
+- [Family emergency binder printable: what to put in it, and a free checklist](https://shai-mate.github.io/family-emergency-binder-printable/): A family emergency binder holds what someone would need if you weren't there to explain it: emergency and family contacts, utility shut-off locations, home and car details, where insurance and papers are kept, bill due dates, and sitter and pet instructions. Record where things are, never passwords or PINs, and review it twice a year.
   - Free one-page PDF: https://shai-mate.github.io/free-emergency-binder-checklist.pdf
 
 ## Free printables (PDF)
